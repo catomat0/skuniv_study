@@ -96,7 +96,7 @@
 <ul>
   <li>📌 문제 풀이는 <code>/weekN</code> 폴더에 정리</li>
   <li>📌 각 주차별 코드 리뷰 & CS 요약은 <code>/docs</code> 폴더에 저장</li>
-  <li>📌 문제 출처: <a href="https://www.acmicpc.net/workbook/view/7307" target="_blank">바킹독 문제집</a> + 실전 유형</li>
+  <li>📌 문제 출처: <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md" target="_blank">바킹독 문제집</a> + 실전 유형</li>
 </ul>
 
 <h2>✅ 코드 작성 팁</h2>
