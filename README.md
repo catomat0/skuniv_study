@@ -47,10 +47,11 @@
       <td>String vs char[], 인코딩</td>
       <td>11720, 1152, 10809, 10988</td>
       <td>substring 반복 → 메모리 사용 증가</td>
+      <td>불변 객체 string 반복 → 메모리 사용 증가</td>
     </tr>
     <tr>
       <td>4주차</td>
-      <td>배열 & 수학</td>
+      <td>배열</td>
       <td>슬라이딩 윈도우, 누적합</td>
       <td>배열 메모리, 인덱싱 O(1)</td>
       <td>10818, 2562, 3052, 10986</td>
@@ -94,9 +95,9 @@
 <h2>📝 참고</h2>
 
 <ul>
-  <li>📌 문제 풀이는 <code>/weekN</code> 폴더에 정리</li>
-  <li>📌 각 주차별 코드 리뷰 & CS 요약은 <code>/docs</code> 폴더에 저장</li>
-  <li>📌 문제 출처: <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md" target="_blank">바킹독 문제집</a> + 실전 유형</li>
+  <li>📌 문제 풀이는 각 문제 폴더 하위 문제 풀이 폴더에 정리</li>
+  <li>📌 각 주차별 코드 리뷰 & CS 요약은 각 문제 폴더 하위 코드 리뷰 및 CS 요약 폴더에 저장</li>
+  <li>📌 문제 출처: <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md" target="_blank">바킹독 문제집</a> </li>
 </ul>
 
 <h2>✅ 코드 작성 팁</h2>
