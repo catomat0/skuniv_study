@@ -1,7 +1,7 @@
 # 📚 Java 알고리즘 스터디 커리큘럼
 
 > Java 알고리즘 스터디
-> 주 2회 진행 / 매주 5문제 + 코드 리뷰  
+> 주 .회 진행 / 매주 5문제 + 코드 리뷰  
 > 푼 문제는 [백준허브](https://github.com/BaekjoonHub/BaekjoonHub) 크롬 확장으로 자동 커밋합니다
 
 ---
@@ -88,7 +88,7 @@
 
 ### 8주차 - 종합 정리 & DP 입문
 - 📌 복습 문제: 각자 자신 없는 주차에서 1문제 선택해 복습
-- 📌 추천 DP 문제:
+- 📌 추천 DP 문제: 5문제 중 3문제 선택 후 풀이
   1. [9095](https://www.acmicpc.net/problem/9095)
   2. [11726](https://www.acmicpc.net/problem/11726)
   3. [1463](https://www.acmicpc.net/problem/1463)
